@@ -1,6 +1,8 @@
 # expense-tracker-js
 This project is an expense tracker built with JavaScript for learning purposes. The goal of this project is to create a functional application that allows users to track their expenses. There is minimal use of CSS to keep the focus on JavaScript functionality.
 
+Visit here: https://ankushjha.github.io/expense-tracker-js/
+
 # Features
 * Add new expenses with a description and amount
 * View a list of all expenses
